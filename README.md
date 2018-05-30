@@ -1,4 +1,8 @@
 # cat
+
+Instructions:
+- Open index.html in your browser
+
 This is my cats project in which I am demonstrating knowledge of:
   - manipulating the DOM
   - using Object Oriented Programming
